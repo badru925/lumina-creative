@@ -280,4 +280,13 @@ span {
   .footer .footer-flex {
     text-align: center;
   }
+
+  .contact {
+    text-align: center;
+    padding: 20px;
+  }
+  .contact p {
+    text-align: center;
+    padding: 12px;
+  }
 }
